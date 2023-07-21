@@ -1,4 +1,21 @@
 # fitlife
+FitLife is a simple Progressive Web Application (PWA) that aims to assist users in maintaining their fitness by offering various shortcut tools in one place. Currently under development, the application already provides features such as calculating the Body Mass Index (BMI) of an individual. As development progresses, additional functionalities and tools are expected to be added to enhance the user's fitness experience.
+
+
+Fork the FitLife repository to your GitHub account.
+
+Create a new branch for your feature or bug fix.
+
+Implement your changes with meticulous attention to code quality and documentation.
+
+Submit a pull request, We will review it promptly.
+
+Get your hard work recognized, as your code becomes a part of this vibrant open-source community!
+
+
+
+
+
 
 A new Flutter project.
 #Web App
