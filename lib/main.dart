@@ -99,7 +99,7 @@ class _WelcomePageState extends State<WelcomePage>
                 ),
               ),
               const SizedBox(height: 50),
-              // Use SizedBox with fixed dimensions to properly display FancyLoader
+
               const SizedBox(
                 width: 100,
                 height: 500,
@@ -133,7 +133,7 @@ class _WelcomePageState extends State<WelcomePage>
                 ),
               ),
               const SizedBox(height: 20),
-              // Animated Circular and Red "Get Started" Button with scale effect
+              
               ScaleTransition(
                 scale: _buttonScaleAnimation,
                 child: Material(
@@ -201,11 +201,11 @@ class GetStarted extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Image.asset(
-                'assets/bmi.jpg',
-                height: 450,
-                width: 350,
-              ),
+              // Image.asset(
+              //   'assets/bmi.jpg',
+              //   height: 450,
+              //   width: 350,
+              // ),
               const SizedBox(height: 24),
               Material(
                 borderRadius: BorderRadius.circular(50.0),
